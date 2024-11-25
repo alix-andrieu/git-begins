@@ -1,5 +1,8 @@
-git clone https://github.com/alix-andrieu/job1
+git clone https://github.com/alix-andrieu/git-begins
 
 git add chemin_vers_fichier
 git commit -m "message du commit"
 git push 
+
+git clone https://github.com/alix-andrieu/git-begins
+git pull
