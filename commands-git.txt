@@ -1,0 +1,5 @@
+git clone https://github.com/alix-andrieu/job1
+
+git add chemin_vers_fichier
+git commit -m "message du commit"
+git push 
